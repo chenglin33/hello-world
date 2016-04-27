@@ -1,0 +1,1 @@
+http://172.16.0.204/trade/www/wx/html/land.html   服务器上二维码扫描手机浏览
